@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore autosaved .ipynb history files but not the actual notebook
+*_dsci100-project-group10.ipynb
+!dsci100-project-group10.ipynb
